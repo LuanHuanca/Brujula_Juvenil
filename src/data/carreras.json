@@ -1,0 +1,28 @@
+{
+  "carreras": [
+    {
+      "nombre": "Ingeniería en Sistemas Computacionales",
+      "descripcion": "Desarrolla habilidades en programación, redes y sistemas operativos."
+    },
+    {
+        "nombre": "Ingeniería en Sistemas Computacionales",
+        "descripcion": "Desarrolla habilidades en programación, redes y sistemas operativos."
+      },
+    {
+      "nombre": "Ingeniería Civil",
+      "descripcion": "Aprende a diseñar y construir infraestructuras como puentes y edificios."
+    },
+    {
+      "nombre": "Medicina",
+      "descripcion": "Formación en ciencias de la salud para diagnosticar y tratar enfermedades."
+    },
+    {
+      "nombre": "Derecho",
+      "descripcion": "Estudia las leyes y cómo aplicarlas en diferentes contextos legales."
+    },
+    {
+      "nombre": "Arquitectura",
+      "descripcion": "Diseña y planifica edificios y otros espacios físicos."
+    }
+  ]
+}
